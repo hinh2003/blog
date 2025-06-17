@@ -10,4 +10,5 @@ Route::view('/contact', 'Client.fages.contact');
 Route::view('/about', 'Client.fages.about');
 Route::view('/typo', 'Client.fages.typo');
 Route::view('/single', 'Client.fages.single');
+Route::view('/admin', 'Admin.fages.dashboard');
 
